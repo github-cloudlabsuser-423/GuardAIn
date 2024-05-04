@@ -1,4 +1,4 @@
-CONFIG_OPENAI_TOKEN = "openai_token"
+CONFIG_OPENAI_TOKEN = "3b2fdc94115c4996b1455bc08e5ba3db"
 CONFIG_CREDENTIAL = "azure_credential"
 CONFIG_ASK_APPROACH = "ask_approach"
 CONFIG_ASK_VISION_APPROACH = "ask_vision_approach"
