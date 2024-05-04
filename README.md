@@ -15,14 +15,9 @@ page_type: sample
 urlFragment: azure-search-openai-demo
 ---
 
-# ChatGPT + Enterprise data with Azure OpenAI and AI Search
-## A4 Azure Hackathon - Team SusItOut - Port GuardAIn Demo Website
-> [!IMPORTANT]
-> As of November 15, 2023, Azure Cognitive Search has been renamed to Azure AI Search.
+# A4 Azure Hackathon - Team SusItOut - Port GuardAIn Demo Website
 
-### Announcing [**JavaScript**](https://aka.ms/azai/js/code), [**.NET**](https://aka.ms/azai/net/code), and [**Java**](https://aka.ms/azai/java/code) samples based on this one ([**Python**](https://aka.ms/azai/py/code)). Learn more at  https://aka.ms/azai.
-
-## Table of Contents
+## [To clean up!] Table of Contents
 
 - [Features](#features)
 - [Azure account requirements](#azure-account-requirements)
